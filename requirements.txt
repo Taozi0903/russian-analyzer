@@ -1,0 +1,4 @@
+streamlit
+openai
+pymorphy3
+Pillow
